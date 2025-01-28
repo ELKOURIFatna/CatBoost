@@ -1,0 +1,5 @@
+1- in vscode open the project file
+2- in the terminal run:
+	1 >> catboost_env/Scripts/activate
+	2 >> jupyter notebook
+3- then work on the localhost through the URL provided
